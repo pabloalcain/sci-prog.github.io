@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Scientific Programming Blog]]></title><description><![CDATA[Un blog de ciencia computacional enfocado en high performance computing]]></description><link>https://sci-prog.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Nov 2017 02:56:24 GMT</lastBuildDate><item><title><![CDATA[Gía para contribuir]]></title><description><![CDATA[Hay varias formas de contribuir a la construccion de este blog, estas van a
+depender del nivel de conocimiento y compromiso del…]]></description><link>https://sci-prog.github.io/contributor-guide/</link><guid isPermaLink="false">https://sci-prog.github.io/contributor-guide/</guid><pubDate>Tue, 14 Nov 2017 03:14:18 GMT</pubDate><content:encoded>&lt;p&gt;Hay varias formas de contribuir a la construccion de este blog, estas van a
+depender del nivel de conocimiento y compromiso del contribuyente,la forma
+más fácil para contribuir es abrir un issue en el
+&lt;a href=&quot;https://github.com/sci-prog/sci-prog.github.io&quot;&gt;repositorio&lt;/a&gt; del blog si
+encuentran algún error o quieren proponer un tema a tratar.&lt;/p&gt;</content:encoded></item></channel></rss>

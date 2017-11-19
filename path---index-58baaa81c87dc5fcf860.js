@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{474:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Scientific Programming Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Hay varias formas de contribuir a la construccion de este blog, estas van a\ndepender del nivel de conocimiento y compromiso del…",fields:{slug:"/contributor-guide/"},frontmatter:{date:"14 November, 2017",title:"Gía para contribuir"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-58baaa81c87dc5fcf860.js.map
